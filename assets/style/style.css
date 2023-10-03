@@ -1,0 +1,6 @@
+/* BASIC STYLES HERE */
+.box {
+    height: 20vh;
+    width: 45vw;
+    object-fit: cover;
+}
